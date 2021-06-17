@@ -6,7 +6,7 @@
 
 Link to the Jira repository :  https://makunda.atlassian.net/jira/software/projects/PA/boards/2
 
-Step Pre-execution
+### Step Pre-execution
 
 1. Create a license customer ( Limited on the time, but the not on the functionality )
 1.	Step : Create Network drive with the customers \\usfs01\customers on the server
